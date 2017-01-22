@@ -2,3 +2,7 @@ This is my first file project
 
 
 hello all11111111111111111111111111
+
+
+
+so the final stage of the git is cloning
