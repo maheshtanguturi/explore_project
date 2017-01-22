@@ -1,4 +1,8 @@
 This is a third file.
+<<<<<<< Updated upstream
 
 <em>hello</em>
 
+=======
+our mission
+>>>>>>> Stashed changes
